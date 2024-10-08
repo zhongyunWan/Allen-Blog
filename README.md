@@ -1,2 +1,0 @@
-# Allen-Blog
-blog site
